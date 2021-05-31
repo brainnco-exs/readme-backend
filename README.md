@@ -1,6 +1,6 @@
 # Exercício de Backend
 
-![](https://i.imgur.com/BD5RleR.png)
+![](images/header.png)
 
 ## Introdução
 
