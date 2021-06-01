@@ -32,7 +32,7 @@ Para isso, a aplicação deve fazer consultas de informações de pokémons à [
 - Síncrona:
   - Realizar as chamadas à [PokéAPI](https://pokeapi.co/) no mesmo momento em que são realizadas as chamadas às rotas da API a ser desenvolvida.
 - Assíncrona
-  - Criar jobs para realizar as requisições assincronamente na PokéAPI.
+  - Executar as requisições em background na  [PokéAPI](https://pokeapi.co/).
   - Devolver o resultado via webhook
 
 
