@@ -44,7 +44,7 @@ Para isso, a aplicação deve fazer consultas de informações de pokémons à [
 
 ## Dúvidas
 
-Se você possui alguma dúvida sobre o desafio, você pode entrar em contato por e-mail com o recrutamento que já estará acompanhando seu processo ou através do e-mail mariana@brainn.co.
+Se você possui alguma dúvida sobre o desafio, você pode entrar em contato por e-mail com o recrutamento que já estará acompanhando seu processo ou através dos e-mails mariana@brainn.co e/ou diogo@brainn.co.
 
 ## Caso tenha finalizado e...
 
@@ -54,4 +54,4 @@ Basta sinalizar por e-mail que finalizou o exercício para darmos continuidade a
 
 #### → Ainda não está participando do processo
 
-Basta enviar o link do seu teste para mariana@brainn.co para quem sabe chamarmos você para um bate-papo :blush: :v:
+Basta enviar o link do seu teste para mariana@brainn.co e/ou diogo@brainn.co para quem sabe chamarmos você para um bate-papo :blush: :v:
