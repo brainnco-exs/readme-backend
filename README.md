@@ -27,13 +27,13 @@ Para isso, a aplicação deve fazer consultas de informações de pokémons à [
 É esperado que sejam retornadas informações dos pokémons envolvidos e quem foi o vitorioso nas batalhas. Dica: o pokémon vitorioso pode ser decidido randomicamente.
 
 
-**Propostas para a rota de criação:**
+**Alternativas para a rota de criação:**
 
 - Síncrona:
   - Realizar as chamadas à [PokéAPI](https://pokeapi.co/) no mesmo momento em que são realizadas as chamadas às rotas da API a ser desenvolvida.
-- Assíncrona
-  - Executar as requisições em background na  [PokéAPI](https://pokeapi.co/).
-  - Devolver o resultado via webhook
+- Assíncrona:
+  - Executar as requisições em background na [PokéAPI](https://pokeapi.co/).
+  - Devolver o resultado via webhook.
 
 
 ### Tecnologias sugeridas
